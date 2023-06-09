@@ -1,0 +1,15 @@
+body {
+  background: url(./img/david-marcu-78A265wPiO4-unsplash\ 1.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.textstyle {
+  font-size: 30px;
+  color: #fff;
+}
+.backgroundstyle2 {
+  border-radius: 10px;
+}
+.backgroundstyle {
+  margin-top: 200px;
+}
